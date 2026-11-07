@@ -10,7 +10,8 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - scikit-learn
+  - scipy
+  - ipython
   - jupyterlab
   - notebook
   - ipykernel
